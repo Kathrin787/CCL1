@@ -27,7 +27,7 @@
 
 ---
 
-## 🎨 **Spritesheets**
+## 🖌️ **Spritesheets**
 Below are the sprites used to create characters and objects in the game:
 
 ### Player Character:
@@ -45,7 +45,7 @@ Below are the sprites used to create characters and objects in the game:
 
 ---
 
-## ✍️ **Reflection**
+## 🖊️ **Reflection**
 
 ### What went well:
 - **Creative Design:** It was clear to me in the first second that I wanted to do a jump and run with a panda. And which art style fits better than a pixel art?
