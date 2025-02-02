@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" type="text/css" href="./css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Jersey+10&display=swap" rel="stylesheet">
+    
+    <title>Bamboo Run</title>
+</head>
+
+<body class="jersey-10-regular">
+    <div id="startScreen" class="screen">
+        <h1 class="gameTitle">Bamboo Run</h1>
+        <p class="description">Collect as many golden leaves as possible!</p>
+        <div class="startButtons">
+            <button id="easyButton" class="gameButton jersey-10-regular">Easy</button>
+            <button id="mediumButton" class="gameButton jersey-10-regular">Medium</button>
+            <button id="hardButton" class="gameButton jersey-10-regular">Hard</button>
+        </div>
+    </div>
+
+    <div id="gameContainer" style="display: none;">
+        <div id="progress-container">
+            <div id="progress-bar"></div>
+        </div>
+        <div id="background"></div>
+        <canvas id="canvas" width="10000" height="1080"></canvas>
+    </div>
+
+    <div id="endScreen" class="screen" style="display: none;">
+        <h1 class="gameTitle">Good Job!</h1>
+        <p class="description">Ready for another round?</p>
+        <button class="jersey-10-regular gameButton singleButton">Back To Start</button>
+    </div>
+
+    <div id="gameOverScreen" class="screen" style="display: none;">
+        <h1 class="gameTitle">Game Over!</h1>
+        <p class="description">Try harder next round!</p>
+        <button class="jersey-10-regular gameButton singleButton">Back To Start</button>
+    </div>
+    <div id="score" style="display: none;">Score: <span id="scoreValue">0</span></div>
+
+    <script type="module" src="./scripts/modules/main.js"></script>
+    <script type="module" src="./scripts/gameObjects/baseGameObject.js"></script>
+    <script type="module" src="./scripts/gameObjects/animatingGameObject.js"></script>
+    <script type="module" src="./scripts/gameObjects/tree.js"></script>
+</body>
+</html>
