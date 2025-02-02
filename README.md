@@ -1,11 +1,6 @@
-# 🎍 **Bamboo Run** 
+# 🐼 **Bamboo Run** 
 
 > "Try to collect as much as possible golden leaves until reaching the end! But be careful: There are some obstacles crashing your way!"
-
----
-
-## 🐼 **Play the Game**
-[Click here to play Bamboo Run!](https://Kathrin787.github.io/BambooRun)
 
 ---
 
