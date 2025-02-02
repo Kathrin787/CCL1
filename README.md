@@ -32,16 +32,15 @@ Below are the sprites used to create characters and objects in the game:
 
 ### Player Character:
 <div style="text-align: center;">
-  <img src="playersheet.png" alt="Player Spritesheet" width="500">
-  <p>*Figure 3: Player character animations.*</p>
+  <img src="PandaWalking.png" alt="Player Spritesheet" width="500">
 </div>
 
 ---
 
 ### Enemies and NPCs:
 <div style="text-align: center;">
-  <img src="enemysheet.png" alt="Enemy Spritesheet" width="500">
-  <p>*Figure 4: Enemy animations.*</p>
+  <img src="Plant.png" alt="Enemy Spritesheet" width="500">
+  <p>If you know Plants vs Zombies than you might be already familiar with this plant. I thought this one would fit perfect into my game, so I redesigned it by myself.</p>
 </div>
 
 ---
@@ -49,13 +48,13 @@ Below are the sprites used to create characters and objects in the game:
 ## ✍️ **Reflection**
 
 ### What went well:
-- **Creative Design:** The theme and style came together seamlessly, and the sprites were fun to design.
-- **Core Mechanics:** The gravity-based gameplay worked better than expected and provided a unique challenge.
+- **Creative Design:** It was clear to me in the first second that I wanted to do a jump and run with a panda. And which art style fits better than a pixel art?
+- **Core Mechanics:** The gameplay was fun to adjust. I had the opportunity to customize it to what felt best to me.
 
 ### Challenges:
-- **Time Constraints:** Implementing all the features we envisioned wasn’t possible due to the limited timeframe.
-- **Bug Fixes:** Handling collisions and edge cases for gravity mechanics was tricky.
+- **Time Constraints:** At the beginning I planned more features and stuff, but unfortunately I didn't have enough time because I was filling my time with troubleshooting.
+- **Bug Fixes:** Sometimes collisions didn't work and I was searching a long time to fix them, just to find a missing letter, semicolon or something else.
 
 ### Lessons Learned:
-- **Prototyping Matters:** Testing early prototypes helped refine the core mechanics quickly.
-- **Keep it Simple:** Focusing on one unique mechanic instead of multiple features made the game more polished.
+- **Prototyping Matters:** Early testing helped me with searching and finding any issues immediately.
+- **Keep it Simple:** I also learned that I don't have to do everything perfectly right away, I can always change things and improve them later.
