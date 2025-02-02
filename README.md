@@ -1,6 +1,6 @@
 # 🎍 **Bamboo Run** 
 
-> **Short Pitch**: Try to collect as much as possible golden leaves until reaching the end! But be careful: There are some obstacles crashing your way!
+> "Try to collect as much as possible golden leaves until reaching the end! But be careful: There are some obstacles crashing your way!"
 
 ---
 
@@ -13,16 +13,16 @@
 
 ### Main Gameplay:
 <div style="text-align: center;">
-  <img src="gameplay.png" alt="Gameplay Screenshot" width="600">
-  <p>*Figure 1: Example of gameplay in action.*</p>
+  <img src="Frame 2.png" alt="Gameplay Screenshot" width="600">
+  <p>*Panda running above the trees.*</p>
 </div>
 
 ---
 
 ### Menu and UI:
 <div style="text-align: center;">
-  <img src="menu.png" alt="Menu UI Screenshot" width="600">
-  <p>*Figure 2: Menu and user interface.*</p>
+  <img src="Frame 1.png" alt="Menu UI Screenshot" width="600">
+  <p>Startscreen and </p>
 </div>
 
 ---
